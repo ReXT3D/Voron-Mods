@@ -11,6 +11,7 @@ In addition, the assembly will require the following hardware:
 
 - 2 M4x25 BHCS screws
 - 2 M4 threaded brass inserts for 3D printed parts
+- 1 M4x6 BHCS screw (or reuse the middle switch screw, but the spring washer may not fit)
 - 3 M3x8 SHCS screws
 - 3 captive nuts for 2020 extrusion
 
