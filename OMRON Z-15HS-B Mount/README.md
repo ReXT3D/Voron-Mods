@@ -5,7 +5,7 @@
 
 The bracket consists of three printed parts - the bracket itself, a small retainer to lock the Microfit connector in place and an optional terminal cover that I designed because I did not like the idea of having three electrically "live" M4 screws exposed in the chamber of the printer:
 
-![Custom Z Switch Bracket v17](./images/Custom Z Switch Bracket v17.png)
+![Custom Z Switch Bracket v17](./images/custom_Z_switch_bracket_v17.png)
 
 In addition, the assembly will require the following hardware:
 
@@ -25,4 +25,4 @@ The complete switch assembly ready to be installed onto the 2020 extrusion looks
 
 Note: the height of the switch plunger has been located at approximately same height above the MRW 6 mm thick bed as the stock switch design is in relation to the stock bed.
 
-To be continued...
+**ReXT3D**
