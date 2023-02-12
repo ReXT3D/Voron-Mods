@@ -1,2 +1,2 @@
 # Voron-Mods
- Modifications & tweaks to my Voron 2.4
+ Modifications, tweaks and experiments on my Voron 2.4
